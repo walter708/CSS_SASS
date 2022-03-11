@@ -1,0 +1,11 @@
+{
+  "editor.renderWhitespace": "all",
+  "editor.trimAutoWhitespace": false,
+  "editor.smartSelect.selectLeadingAndTrailingWhitespace": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.useTabStops": false,
+  "eslint.codeAction.showDocumentation": {
+    "enable": false
+  },
+  "eslint.enable": false
+}
